@@ -1,0 +1,31 @@
+id,name,date,city,state,grp_id
+1,Photography Event,2/3/2021,Pittsburgh,PA,3
+2,Bird Watching Event,1/21/2021,Charleston,WV,5
+3,Cycling Event,12/21/2020,Fresno,CA,2
+4,Piano Event,2/10/2021,Orlando,FL,10
+5,Dancing Event,12/14/2020,Bloomington,IN,8
+6,Dancing Event,2/2/2021,Temple,TX,8
+7,Tennis Event,2/9/2021,Richmond,VA,12
+8,Violin Event,1/5/2021,Boynton Beach,FL,11
+9,Photography Event,1/24/2021,Athens,GA,3
+10,Drawing Event,12/29/2020,Roanoke,VA,1
+11,Piano Event,1/17/2021,Trenton,NJ,10
+12,Tennis Event,2/4/2021,Omaha,NE,12
+13,Drawing Event,1/20/2021,Erie,PA,1
+14,Singing Event,12/18/2020,Seattle,WA,7
+15,Bird Watching Event,12/30/2020,Charleston,WV,5
+16,Photography Event,12/24/2020,Marietta,GA,3
+17,Violin Event,1/23/2021,Lynn,MA,11
+18,Guitar Event,1/25/2021,Saint Paul,MN,9
+19,Gaming Event,1/19/2021,Raleigh,NC,6
+20,Baking Event,2/10/2021,San Francisco,CA,15
+21,Gaming Event,12/18/2020,Homestead,FL,6
+22,Gaming Event,1/13/2021,Sacramento,CA,6
+23,Singing Event,12/12/2020,Washington,DC,7
+24,Gaming Event,1/6/2021,Portland,OR,6
+25,Tennis Event,1/10/2021,Huntington,WV,12
+26,Cooking Event,1/26/2021,Toledo,OH,14
+27,Violin Event,12/25/2020,Albany,NY,11
+28,Piano Event,12/17/2020,Gainesville,FL,10
+29,Singing Event,1/10/2021,Young America,MN,7
+30,Violin Event,1/11/2021,Richmond,VA,11
