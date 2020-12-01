@@ -1,51 +1,51 @@
 id,f_name,l_name,city,state,interest
-1,Julio,Sperski,Conroe,TX,guitar
-2,Micah,Inchley,Omaha,NE,gaming
-3,Brigg,Denny,Bakersfield,CA,gaming
-4,Rancell,Boyson,Knoxville,TN,piano
-5,Giusto,Attwooll,Orlando,FL,knitting
-6,Glendon,Puckett,Newark,DE,dancing
-7,Arny,Fysh,Portland,OR,dancing
-8,Georgina,Newberry,El Paso,TX,piano
-9,Tansy,Bayns,Midland,MI,bird watching
-10,Rey,MacLaig,Canton,OH,swimming
-11,Berkley,Winchcum,Bronx,NY,cycling
-12,Luz,Jagels,Jamaica,NY,cycling
-13,Theodoric,Aers,Stockton,CA,bird watching
-14,Eamon,Rann,Chicago,IL,guitar
-15,Vincenz,Stockoe,Boca Raton,FL,violin
-16,Mead,Liversedge,Hyattsville,MD,dancing
-17,Hardy,Squier,Dallas,TX,bird watching
-18,Kirstin,Spridgeon,Reno,NV,piano
-19,Lukas,Lohden,Naples,FL,singing
-20,Nico,Arman,Seattle,WA,tennis
-21,Eziechiele,Pook,El Paso,TX,piano
-22,Mayor,Gohn,Rockville,MD,swimming
-23,Lemmie,Dameisele,San Bernardino,CA,gaming
-24,Nana,Zorzi,Memphis,TN,tennis
-25,Staffard,Braga,Kansas City,MO,drawing
-26,Randal,Bentick,Fresno,CA,swimming
-27,Cheri,Jepps,Chicago,IL,guitar
-28,Allie,Korous,Gadsden,AL,photography
-29,Dorrie,Durward,Knoxville,TN,violin
-30,Theadora,Amoss,Fort Worth,TX,baking
-31,Kellyann,Lumm,Philadelphia,PA,cooking
-32,Westbrooke,Hance,Spring,TX,drawing
-33,Felike,Irlam,Oxnard,CA,tennis
-34,Davide,Itchingham,Bloomington,IN,baking
-35,Gabby,Greenslade,Garden Grove,CA,dancing
-36,Sheryl,Fassmann,Young America,MN,violin
-37,Brennen,Vannet,Akron,OH,tennis
-38,Farleigh,Ledstone,Chula Vista,CA,singing
-39,Muffin,Iskowitz,Houston,TX,drawing
-40,Reeta,Bonsul,Dayton,OH,knitting
-41,Adrianna,Kupec,Saint Joseph,MO,gaming
-42,Janith,Curedell,Washington,DC,drawing
-43,Diane-marie,Ritzman,Seminole,FL,tennis
-44,Lennard,Gutridge,Greenville,SC,guitar
-45,Suzette,Tampling,Corona,CA,knitting
-46,Janey,Gonneau,Melbourne,FL,guitar
-47,Aldo,Amphlett,Erie,PA,tennis
-48,Payton,Lishman,Portland,OR,tennis
-49,Andrew,Zhu,Brooklyn,NY,cycling
-50,Rachel,Tan,Queens,NY,drawing
+30,Theadora,Amoss,Fort Worth,TX,"1,5,2"
+34,Davide,Itchingham,Bloomington,IN,1
+9,Tansy,Bayns,Midland,MI,"2,3"
+13,Theodoric,Aers,Stockton,CA,2
+17,Hardy,Squier,Dallas,TX,"2,5"
+31,Kellyann,Lumm,Philadelphia,PA,"3,15"
+11,Berkley,Winchcum,Bronx,NY,4
+12,Luz,Jagels,Jamaica,NY,4
+49,Andrew,Zhu,Brooklyn,NY,"4,7,10"
+6,Glendon,Puckett,Newark,DE,"5,15,14"
+7,Arny,Fysh,Portland,OR,"5,13"
+16,Mead,Liversedge,Hyattsville,MD,"5,11"
+35,Gabby,Greenslade,Garden Grove,CA,5
+25,Staffard,Braga,Kansas City,MO,6
+32,Westbrooke,Hance,Spring,TX,"6,1"
+39,Muffin,Iskowitz,Houston,TX,"6,2"
+42,Janith,Curedell,Washington,DC,6
+50,Rachel,Tan,Queens,NY,6
+2,Micah,Inchley,Omaha,NE,"7,4,6"
+3,Brigg,Denny,Bakersfield,CA,7
+23,Lemmie,Dameisele,San Bernardino,CA,"7,3"
+41,Adrianna,Kupec,Saint Joseph,MO,7
+1,Julio,Sperski,Conroe,TX,"8,9,10"
+14,Eamon,Rann,Chicago,IL,"8,12,13"
+27,Cheri,Jepps,Chicago,IL,"8,6,2"
+44,Lennard,Gutridge,Greenville,SC,"8,12,15"
+46,Janey,Gonneau,Melbourne,FL,"8,1,14"
+5,Giusto,Attwooll,Orlando,FL,"9,2,3"
+40,Reeta,Bonsul,Dayton,OH,9
+45,Suzette,Tampling,Corona,CA,9
+28,Allie,Korous,Gadsden,AL,10
+4,Rancell,Boyson,Knoxville,TN,11
+8,Georgina,Newberry,El Paso,TX,"11,14"
+18,Kirstin,Spridgeon,Reno,NV,11
+21,Eziechiele,Pook,El Paso,TX,11
+19,Lukas,Lohden,Naples,FL,12
+38,Farleigh,Ledstone,Chula Vista,CA,"12,13"
+10,Rey,MacLaig,Canton,OH,13
+22,Mayor,Gohn,Rockville,MD,13
+26,Randal,Bentick,Fresno,CA,13
+20,Nico,Arman,Seattle,WA,"14,12,1"
+24,Nana,Zorzi,Memphis,TN,"14,2,3"
+33,Felike,Irlam,Oxnard,CA,"14,4,9"
+37,Brennen,Vannet,Akron,OH,14
+43,Diane-marie,Ritzman,Seminole,FL,14
+47,Aldo,Amphlett,Erie,PA,"14,3"
+48,Payton,Lishman,Portland,OR,14
+15,Vincenz,Stockoe,Boca Raton,FL,15
+29,Dorrie,Durward,Knoxville,TN,"15,6"
+36,Sheryl,Fassmann,Young America,MN,"15,5"
