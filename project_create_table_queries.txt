@@ -1,0 +1,18 @@
+create table chat (id int, group_id int, sender_id int, message varchar(255));
+load data local infile '/home/2020/hunter/fall/43501/za0253/project/chat.csv' into table chat fields terminated by ',' optionally enclosed by '"' ignore 1 lines;
+
+create table event (id int, name varchar(64), date varchar(10), city varchar(32), state varchar(4), group_id int);
+load data local infile '/home/2020/hunter/fall/43501/za0253/project/event.csv' into table event fields terminated by ',' optionally enclosed by '"' ignore 1 lines;
+
+#note: group is a reserved keyword in mysql, added _ to end of group to make table#
+create table group_ (id int, name varchar(64), interest varchar(32));
+load data local infile '/home/2020/hunter/fall/43501/za0253/project/group.csv' into table group_ fields terminat
+ed by ',' optionally enclosed by '"' ignore 1 lines;
+
+create table user (id int, f_name varchar(32), l_name varchar(32), city varchar(64), state varchar(4));
+load data local infile '/home/2020/hunter/fall/43501/za0253/project/user.csv' into table user fields terminated b
+y ',' optionally enclosed by '"' ignore 1 lines;
+
+create table user_group (user_id int, group_id int);
+load data local infile '/home/2020/hunter/fall/43501/za0253/project/user_group.csv' into table user_group fields
+terminated by ',' optionally enclosed by '"' ignore 1 lines;
