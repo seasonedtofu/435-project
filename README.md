@@ -11,6 +11,8 @@ The CLI is very crude and only has functions to return searches, CREATE, UPDATE,
 To see ALL the CRUD functions/queries, look at queries.csv
 
 
+
+
 Returns groups by group name, format: "groups cycling"
 
 Returns groups by interest, format: "groups cycling"
