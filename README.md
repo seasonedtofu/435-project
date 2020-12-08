@@ -12,9 +12,9 @@ To see ALL the CRUD functions/queries, look at queries.csv
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Returns groups by group name, format: "groups cycling"
+Returns groups by group name, format: "groups_name cycling"
 
-Returns groups by interest, format: "groups cycling"
+Returns groups by interest, format: "groups_interest cycling"
 
 Returns group members by group name, format: "group_members Cycling Noobs"
 
